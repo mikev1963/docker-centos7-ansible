@@ -1,5 +1,7 @@
 # CentOS 7 Ansible Test Image
 
+[![Build Status](https://travis-ci.org/mikev1963/docker-centos7-ansible.svg?branch=master)](https://travis-ci.org/mikev1963/docker-centos7-ansible)
+
 CentOS 7 Docker container for Ansible playbook and role testing.
 
 ## Tags
